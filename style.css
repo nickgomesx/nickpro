@@ -16,7 +16,7 @@ h1, p{
 
 }
 em{
-        color: red;
+        color: rgb(230, 25, 10);
     }
 
 #missao{ 
@@ -25,4 +25,25 @@ em{
 
 .itens {
     font-style: italic;
+}
+
+.principal { 
+background-color: #cccccc;
+padding: 30px;
+}
+ 
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20px;
+    margin-right: 15%;
+}
+
+.beneficios{
+   background-color: #cccccc;
+    padding: 20px;
+}
+ 
+.img-beneficios{
+    width: 50%;
 }

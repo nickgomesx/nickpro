@@ -77,3 +77,73 @@ nav a:hover{
     font-size: 18px;
 
 }
+
+.produto-descricao{
+    font-size: 18px;
+
+}
+
+.produtos-preco{
+    font-size: 22px;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px 0;
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+
+form{
+    margin: 40px 0;
+}
+
+form label form{
+    display: block;
+    font-size: 20ṕx;
+    margin-bottom: 10px;
+
+}
+
+.input-padrao{
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox{
+margin: 20px 0;
+}
+
+.enviar{
+width: 40%;
+padding: 15px 0;
+background:orange;
+color: white;
+font-weight: bold;
+font-size: 18px;
+border: none;
+border-radius: 5px;
+
+cursor:pointer;
+transition: 1s all;
+
+}
+
+.enviar:hover{
+background:red;
+
+transform: scale(1.2);
+
+}
